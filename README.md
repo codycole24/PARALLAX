@@ -1,4 +1,4 @@
-# NULLSTATE
+# PARALLAX
 
 A very small experimental physics game for PC.
 
@@ -6,7 +6,7 @@ A very small experimental physics game for PC.
 
 ## About
 
-**NULLSTATE** is an early prototype for a first-person physics sandbox.
+**PARALLAX** is an early prototype for a first-person physics sandbox.
 
 Right now, the game is extremely small. It consists of a single test area and a few basic interactions.
 
@@ -54,7 +54,7 @@ There are currently no other maps.
 
 ## Development
 
-NULLSTATE is currently a **very early prototype**.
+PARALLAX is currently a **very early prototype**.
 
 The project is mainly being used to test:
 
@@ -128,4 +128,4 @@ No public license has been decided yet.
 
 ---
 
-**NULLSTATE is currently a very small prototype.**
+**PARALLAX is currently a very small prototype.**
